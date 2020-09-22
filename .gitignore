@@ -1,2 +1,6 @@
 .gitignore
+<<<<<<< HEAD
 .idea/
+=======
+/.idea
+>>>>>>> remotes/origin/test01
