@@ -1,3 +1,4 @@
 .gitignore
 .1/
-2.txt
+.idea/
+.2.txt
